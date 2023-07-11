@@ -20,7 +20,7 @@ Por ser a posição mais importante e mais difícil do jogo, ela é geralmente o
 ## Defesa
 O esquema defensivo padrão é o 2 Man, composto de 2 linebackers (LBs) protegendo o fundo e 2 cornerbacks (CBs) guardando as laterais.
 ### Cornerback
-O cornerback (CB) é responsável por defender as laterais. Para isso, ele deve ficar próximo às hashes bloqueando o ângulo de passe do QB bem como deve marcar o jogador mais ao canto.
+O cornerback (CB) é responsável por defender as laterais. Para isso, ele deve ficar próximo às hashes bloqueando o ângulo de passe do QB bem como deve marcar o jogador mais ao canto. A movimentação do CB tende a ser mais horizontal, impedindo possíveis passes; o CB não costuma descer ou subir com frequência. Essa é a posição preferida por novatos.
 ### Linebacker
 O linebacker (LB) deve impedir passes em profundidade posicionando-se de maneira a poder defender lançamentos, assim como marcando os jogadores no fundo.
 ## Special teams e outros casos

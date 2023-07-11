@@ -8,7 +8,7 @@ nav_order: 4
 ## Ataque e defesa
 O modo de futebol americano é dividido em 2 fases: ataque e defesa. Diferente de outros modos, como futsal, em que defesa e ataque são dinâmicos e não dependem das regras do jogo, o futebol americano faz uma clara divisão entre o time de defesa e o de ataque, cada um com suas responsabilidades.
 
-O objetivo do time ofensivo é avançar no campo. Eles possuem um quarterback (QB) que terá a posse da bola e wide receivers (WRs) que devem receber a bola do QB. O QB deve se manter atrás da linha da bola, também chamada de linha de scrimmage (de cor verde), onde terá 12 segundos para fazer um passe.
+O objetivo do time ofensivo é avançar no campo. Eles possuem um quarterback (QB) que terá a posse da bola e wide receivers (WRs) que devem receber a bola do QB. O QB deve se manter atrás da linha da bola, também chamada de linha de scrimmage (de cor azul), onde terá 12 segundos para fazer um passe.
 
 E, naturalmente, os WRs devem se manter à frente da linha para recebê-la e avançar no mapa ou, caso consigam avançar até o fim, marcar um touchdown, pontuação máxima do jogo (6 pontos). Quando um WR recebe um passe, ele fica com o avatar de bola e pode ser derrubado pelos jogadores de defesa.
 
@@ -20,7 +20,7 @@ Cada tentativa é chamada de *descida*, uma campanha ofensiva é chamada de *dri
 ## Medidas do campo
 O campo de futebol americano é medido em jardas. A maneira mais efetiva de medir 1 jarda no campo é olhando para as hashes, diversas pequenas linhas brancas verticais que marcam 2 jardas entre elas. De mesmo modo, as grandes linhas verticais brancas marcam 10 jardas entre si. O campo todo soma 100 jardas, e a distância do first down é de 20 jardas.
 
-O campo também é dividido em 3 zonas: meio de campo, red zone e endzone. A endzone é o objetivo de chegada do time ofensivo, onde marcam o touchdown. Já a red zone é uma área especial em que o time defensivo não pode cometer mais que 3 faltas ou recebem um touchdown automático.
+O campo também é dividido em 3 zonas: meio de campo, red zone (demarcado pela linha vermelha) e endzone (demarcado pela linha dourada). A endzone é o objetivo de chegada do time ofensivo, onde marcam o touchdown. Já a red zone é uma área especial em que o time defensivo não pode cometer mais que 3 faltas ou recebem um touchdown automático.
 ## Formas de pontuação
 ### Touchdown
 O objetivo máximo de um drive é conseguir o touchdown, obtido ao avançar com a bola para a endzone. Um touchdown são 6 pontos.
