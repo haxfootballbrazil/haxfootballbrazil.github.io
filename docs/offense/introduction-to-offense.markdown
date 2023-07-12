@@ -4,6 +4,8 @@ title: Introdução ao ataque
 parent: Ataque
 nav_order: 4
 ---
+<link href="{{ '/css/style.css' | relative_url }}" rel="stylesheet" type="text/css">
+
 # Introdução ao ataque
 Neste artigo será apresentada uma introdução a todos os conceitos de ataque que qualquer wide receiver ou quarterback deve conhecer. É com base nesses conceitos que se fundamenta o ataque moderno, sendo o conhecimento deles indispensável.
 ## Áreas de ataque
