@@ -9,6 +9,8 @@ url: https://haxfootballbrazil.github.io/haxfootballbrazil.github.io
 aux_links:
   Template Repository: https://github.com/haxfootballbrazil/haxfootballbrazil.github.io
 
+color_scheme: dark
+
 callouts_level: loud
 callouts:
   highlight:
