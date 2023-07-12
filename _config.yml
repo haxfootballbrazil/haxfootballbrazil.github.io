@@ -1,6 +1,6 @@
 title: HaxFootball Brazil
 description: A maior comunidade de futebol americano do Haxball
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 baseurl: ""
 permalink: pretty
 
