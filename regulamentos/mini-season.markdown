@@ -43,8 +43,8 @@ Os jogos da temporada regular seguem o modelo de todos contra todos - são cinco
 ## Jogadores
 1. Ofensas de cunho pessoal, seja durante os jogos ou off-game, não são toleradas.
 2. Todo jogador inscrito na temporada deve cumprir seu compromisso em relação ao campeonato, a comunidade e sua equipe.
-3. Os jogadores que não jogarem pelo menos 50% da temporada regular não podem jogar a fase final do campeonato.
-4. Jogadores que jogarem menos de dez minutos na temporada regular não recebem títulos.
+3. Os jogadores que não estiverem disponíveis para jogo na sala por pelo menos 50% da temporada regular não podem jogar a fase final do campeonato.
+4. Jogadores que não jogarem pelo menos uma descida da fase final não recebem títulos.
 
 ## Prorrogação
 Na prorrogação, a primeira posse é sorteada entre os times. Os seguintes casos incorrem em vitória:
