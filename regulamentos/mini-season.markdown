@@ -121,7 +121,7 @@ Os quatro primeiros colocados são classificados para a fase final. O 3º e 4º 
 ## Jogadores
 ### Regras
 {: .no_toc }
-1. Ofensas de cunho pessoal, seja durante os jogos ou off-game, não são toleradas.
+1. Espera-se dos jogadores que ajam de maneira amigável e justa. Ofensas de cunho pessoal, seja durante os jogos ou off-game, não são toleradas.
 2. Todo jogador inscrito na temporada deve cumprir seu compromisso em relação ao campeonato, a comunidade e sua equipe.
 3. Os jogadores que não estiverem disponíveis para jogo na sala por pelo menos 50% da temporada regular não podem jogar a fase final do campeonato, salvo aqueles que jogaram um jogo completo.
 4. Jogadores que não jogarem pelo menos uma descida da fase final não recebem títulos.
@@ -136,9 +136,6 @@ Na prorrogação, a primeira posse é sorteada entre os times. Os seguintes caso
 > Field goal em prorrogação
 >
 > Field goal não implica em vitória *in primo loco*, exceto no 2º caso.
-
-## Comportamento
-Espera-se dos jogadores que ajam de maneira amigável e justa. Em caso de ofensas de cunho pessoal, quaisquer que sejam, os jogadores infratores estão sujeitos a suspensão do próximo jogo e, se reincidente, banimento desta temporada.
 
 ## Punições
 Esta seção lista punições para casos de infração deste regulamento. Casos não especificados aqui são julgados pela administração e seguem a regra da precedência.
