@@ -105,10 +105,10 @@ Os quatro primeiros colocados são classificados para a fase final. O 3º e 4º 
 4. Os jogos devem ser realizados sempre que possível com a presença de um juiz neutro, representante da administração, para resolver disputas entre as equipes.
 5. Durante os jogos oficiais será permitido que um jogador, o técnico do time na partida, entre em jogo para utilizar o chat de time, desde que se mantenha nas extremidades laterais do campo (fora de campo) durante todo o jogo.
 6. Somente os jogadores oficiais de um time podem entrar em campo, incluindo o técnico.
-7. Os capitães, o juiz e a administração têm o direito de exigir a retirada de jogadores não relacionados ao jogo. Considera-se jogadores relacionados os integrantes das equipes participantes, a equipe de transmissão e os administradores do servidor.
+7. Os capitães, o juiz e a administração têm o direito de exigir a retirada de jogadores da sala não relacionados ao jogo. Considera-se jogadores relacionados os integrantes das equipes participantes, a equipe de transmissão e os administradores do servidor.
 8. Não é tolerado o abuso de bugs do bot durante a partida.
 9. Se a gravação de uma partida for perdida, o jogo está sujeito a anulação.
-10. O tempo de W.O é 15 minutos a partir do horário estabelecido. Caso a equipe fique sem um jogador durante a partida, terá até 15 minutos *acumulativos* para que o jogador retorne - isto é, se ficarem várias vezes durante a partida sem um jogador, cada período de ausência conta incrementalmente para o W.O.
+10. O tempo de W.O é de 15 minutos a partir do horário estabelecido. Caso a equipe fique sem um jogador durante a partida, terá até 15 minutos *acumulativos* para que o jogador retorne - isto é, se ficarem várias vezes durante a partida sem um jogador, cada período de ausência conta incrementalmente para o W.O.
 11. Os jogadores devem jogar com nomes reconhecíveis.
 12. Em jogos com margem de pontos acima de 25 pontos, se o capitão do time que estiver perdendo requisitar, o jogo pode ser encerrado a partir dos 4:00 do segundo tempo, cabendo a decisão ao juiz. O juiz também pode encerrar o jogo a partir dos 4:00 do segundo tempo em caso de troll claro do time perdedor.
 13. O juiz pode encerrar a partida e decretar W.O caso ela se deteriore em troll caótico e generalizado após pelo menos uma tentativa fracassada de reconciliação.
@@ -123,7 +123,7 @@ Os quatro primeiros colocados são classificados para a fase final. O 3º e 4º 
 {: .no_toc }
 1. Espera-se dos jogadores que ajam de maneira amigável e justa. Ofensas de cunho pessoal, seja durante os jogos ou off-game, não são toleradas.
 2. Todo jogador inscrito na temporada deve cumprir seu compromisso em relação ao campeonato, a comunidade e sua equipe.
-3. Os jogadores que não estiverem disponíveis para jogo na sala por pelo menos 50% da temporada regular não podem jogar a fase final do campeonato, salvo aqueles que jogaram um jogo completo.
+3. Os jogadores que não estiverem disponíveis para jogo na sala por pelo menos 50% da temporada regular não podem jogar a fase final do campeonato, salvo aqueles que jogaram pelo menos um jogo completo.
 4. Jogadores que não jogarem pelo menos uma descida da fase final não recebem títulos.
 
 ## Prorrogação
@@ -141,7 +141,7 @@ Na prorrogação, a primeira posse é sorteada entre os times. Os seguintes caso
 Esta seção lista punições para casos de infração deste regulamento. Casos não especificados aqui são julgados pela administração e seguem a regra da precedência.
 - Fakes acarretam em banimento desta temporada e da próxima; com conivência do capitão, o time é desclassificado da temporada. Caso a equipe infratora seja vitoriosa e houve conhecimento do fake, é concedido o W.O em favor da equipe adversária. Se não houve conhecimento, a partida é refeita. Se o fake for de um jogador da equipe adversária e ela for vitoriosa, sem o conhecimento da equipe, é concedido o W.O em favor da equipe perdedora. Em caso de envolvimento malicioso de ambas as equipes em casos de fakes, é decretado o W.O duplo.
 - Derrubar a conexão de um jogador ou do host da sala acarreta em banimento desta temporada e da próxima.
-- Ofensas de cunho pessoal, quaisquer que sejam, acarreta em suspensão do próximo jogo e, se reincidente, banimento da temporada.
+- Ofensas de cunho pessoal, quaisquer que sejam, acarretam em suspensão do próximo jogo e, se reincidente, banimento da temporada.
 - Abuso de bug acarreta em um jogo de suspensão se imediatamente percebido e corrigível (capacidade de voltar atrás no bug); caso contrário, são dois jogos de suspensão.
 - Abuso de administrador na sala acarreta em um jogo de suspensão; caso o juiz ou um administrador do servidor forem banidos ou expulsos, o infrator é banido da temporada.
 - Invasão do campo pelo técnico acarreta em expulsão do jogo atual; se intencional, também do próximo. Se atrapalhou situação de touchdown, o touchdown deve ser concedido; caso contrário, concede-se somente dez jardas e uma descida.
@@ -155,7 +155,7 @@ Esta seção lista punições para casos de infração deste regulamento. Casos 
 
 ### Hierarquia de punições
 {: .no_toc }
-Para casos não especificado nesse regulamento, as punições de ocorrências futuras seguem o princípio de precedência [stare decisis](https://pt.wikipedia.org/wiki/Stare_decisis): a mesma punição é aplicada em casos futuros, se semelhantes.
+Para casos não especificados nesse regulamento, as punições de ocorrências futuras seguem o princípio de precedência [stare decisis](https://pt.wikipedia.org/wiki/Stare_decisis): a mesma punição é aplicada em casos futuros, se semelhantes.
 
 Nesse sistema, as punições seguem a seguinte hierarquia:
 1. Punições previstas pelo regulamento;
