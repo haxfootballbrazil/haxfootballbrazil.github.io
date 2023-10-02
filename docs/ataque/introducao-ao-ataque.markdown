@@ -7,7 +7,18 @@ nav_order: 4
 <link href="{{ '/css/style.css' | relative_url }}" rel="stylesheet" type="text/css">
 
 # Introdução ao ataque
+{: .no_toc }
 Neste artigo será apresentada uma introdução a todos os conceitos de ataque que qualquer wide receiver ou quarterback deve conhecer. É com base nesses conceitos que se fundamenta o ataque moderno, sendo o conhecimento deles indispensável.
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Áreas de ataque
 O campo de ataque é composto de 3 grandes áreas: as laterais, o fundo e o mid (ou meio). As laterais são marcadas pelos CBs e o fundo é marcado pelos LBs. Já a marcação do mid depende da situação da jogada.
 
