@@ -28,9 +28,9 @@ Já o outro LB deve recuar, cobrindo o seu companheiro em um posicionamento conh
 
 <img src="../../../assets/images/overload-e-strong-safety.png" class="tactic">
 
-Em geral, os LBs devem evitar se posicionar paralelo um ao outro, exceto quando estiverem suficientemente longe da bola para serem capazes de proteger qualquer passe - como no posicionamento de 4ª descida. Além disso, deve-se evitar que os dois LBs estejam adiantados ao mesmo tempo, *especialmente* no caso de estiverem recuando juntos, que é o momento mais propenso à abertura de buracos.
+Em geral, os LBs devem evitar se posicionar paralelo um ao outro, exceto quando estiverem suficientemente longe da bola para serem capazes de proteger qualquer passe - como no posicionamento de 4ª descida. Além disso, deve-se evitar que os dois LBs estejam adiantados ao mesmo tempo, *especialmente* ao recuarem em simultâneo, que é o momento mais propenso à abertura de buracos.
 
-Quando não estiverem uma situação de overload e o mid não estiver sendo ameaçado, os LBs devem recuar.
+Quando não estiverem em uma situação de overload e o mid não estiver sendo ameaçado, os LBs devem recuar.
 
 <img src="../../../assets/images/lbs-recuados.png" class="tactic">
 
@@ -56,7 +56,7 @@ Em vez disso, os LBs devem deixar o slice levemente aberto, mas marcado - isto �
 <img src="../../../assets/images/boa-marcacao-mid-lb.png" class="tactic">
 
 ## Proteção contra invasão
-A defesa deve se atentar às invasões de mid pelos WRs. O LB e o CB que estiver seu lado invadido deve tomar a dianteira contra a invasão, prevê-la e protegê-la.
+A defesa deve se atentar às invasões de mid pelos WRs. O LB e o CB cujo lado estiver sendo invadido devem tomar a dianteira contra a invasão, prevê-la e protegê-la.
 ### Invasão contra LB em overload ou adiantado
 Se um LB em overload ou adiantado tiver seu lado sendo invadido, ele deve prever a invasão e se adiantar para impedir que o WR entre no mid, forçar um estado de fumble ou pelo menos diminuir o ganho de jardas na ocasião de um passe.
 
@@ -73,18 +73,18 @@ O strong safety deve ser capaz de prever invasões pelo seu lado. Quando um WR e
 
 <img src="../../../assets/images/invasao-contra-strong-safety2.png" class="tactic">
 
-Caso o strong safety não consiga impedir a invasão, o WR poderá empurrá-lo e se manter em situação de ganho significado de jardas. Nesses casos o CB deve ajudar e cobrir temporariamente o ângulo para que o LB consiga escapar. Em nenhum caso o LB deve deixar sua posição sem estar sendo coberto - é melhor ceder 10 jardas do que um touchdown.
+Caso o strong safety não consiga impedir a invasão, o WR poderá empurrá-lo e se manter em situação de ganho significativo de jardas. Nesses casos o CB deve ajudar e cobrir temporariamente o ângulo para que o LB consiga escapar. Em nenhum caso o LB deve deixar sua posição sem estar sendo coberto - é melhor ceder 10 jardas do que um touchdown.
 
 <img src="../../../assets/images/empurrao-cb-cobrindo.png" class="tactic">
 
 ### Proteção de invasão contra o CB
-O CB deve se manter atento para proteger invasões de mid. Em particular, devem seguir o WR durante a invasão para bloquear o passe.
+O CB deve se manter atento para proteger invasões de mid. Em particular, deve seguir o WR durante a invasão com o objetivo de bloquear o passe.
 
 <img src="../../../assets/images/invasao-mid-cb.png" class="tactic">
 
 <img src="../../../assets/images/invasao-mid-cb2.png" class="tactic">
 
-Os CBs não devem seguir a invasão no mid caso esteja marcando 2 jogadores. É para isso que serve o LB no overload - cobrir o CB enquanto ele protege contra o WR mais ao canto.
+Os CBs não devem seguir a invasão no mid caso estejam marcando 2 jogadores. É para isso que serve o LB no overload - para cobrir o CB enquanto ele protege contra o WR mais ao canto.
 
 <img src="../../../assets/images/invasao-de-mid-overload.png" class="tactic">
 
@@ -94,7 +94,7 @@ Um mecanismo poderoso para criar oportunidades para a defesa é o *baiting*. Bai
 Baiting é uma técnica avançada, perigosa e deve ser usada com cautela.
 
 ### Baiting para o bloqueio de passes
-Um defensor pode abrir uma via de ataque para enganar o QB e imediatamente reagir e impedir o passe.
+Um defensor pode abrir uma via de passe para enganar o QB e imediatamente reagir e impedir o passe.
 
 <img src="../../../assets/images/bait1.png" class="tactic">
 
