@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Standard Playbook
-nav_order: 4
 parent: Ataque
-permalink: /docs/ataque/standard-playbook
+nav_order: 5
 ---
 <link href="{{ '/css/style.css' | relative_url }}" rel="stylesheet" type="text/css">
 
@@ -19,7 +18,7 @@ permalink: /docs/ataque/standard-playbook
 ## Post
 <div class="embed-container"><iframe class="tactic-video" src="https://www.youtube.com/embed/Anc-TocBO1k?controls=0&rel=0" frameborder="0"></iframe></div>
 
-# Fake Run
+## Fake Run
 <div class="embed-container"><iframe class="tactic-video" src="https://www.youtube.com/embed/tCqYUDUp5Wc?controls=0&rel=0" frameborder="0"></iframe></div>
 
 ## Straight
