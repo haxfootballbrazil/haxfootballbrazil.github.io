@@ -79,7 +79,7 @@ Os jogos da temporada regular são sorteados. O sorteio dos jogos consiste no so
 
 Os critérios de desempate na tabela de classificação são:
 1. Vitórias;
-2. Confronto direto;
+2. Menor quantidade de W.Os;
 3. Saldo de pontos;
 4. Sorteio.
 
