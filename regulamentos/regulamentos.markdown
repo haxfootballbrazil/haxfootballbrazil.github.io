@@ -6,4 +6,4 @@ has_children: true
 permalink: /docs/regulamentos/
 ---
 # Regulamentos
-Coletânea de regulamentos de campeonatos da HFB.
+Coletânea de regulamentos de campeonatos da BFL.
